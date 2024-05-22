@@ -1,0 +1,6 @@
+Nombre: Alan Acevedo Zarraga
+Edad: 21 años
+Email: alanaz.ti21@utsjr.edu.mx
+GitHub: github.com/AlanAZ01
+Educación: Cursando una ingeniería en desarrollo y gestión de software
+Descripción: Desarrollador con experiencia en desarrollo web y multiplataforma, apasionado por el código limpio y las mejores prácticas en ingeniería de software.
